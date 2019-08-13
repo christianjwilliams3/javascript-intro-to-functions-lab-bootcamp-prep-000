@@ -5,5 +5,5 @@ function whisper (string) {
   return string.toLowerCase()
 }
 function sayHiToGrandma (string) {
-  console.logShout return (hello) 
+  console.logShout "hello"
 }
